@@ -27,7 +27,7 @@ A modern, responsive landing page for **Red Chief Shoes**, built with **React.js
 
 ## 🖼️ Demo
 
-> 🔗 [Live Demo]([https://your-demo-url.com](https://red-chief-landing-page.vercel.app/))
+> 🔗 [Live Demo](https://red-chief-landing-page.vercel.app/)
 
 ---
 
